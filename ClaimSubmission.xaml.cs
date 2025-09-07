@@ -6,7 +6,7 @@ namespace CMCS
     {
         public ClaimSubmission()
         {
-        
+            
         }
     }
 }
